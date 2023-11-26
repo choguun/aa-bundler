@@ -1,0 +1,15 @@
+{
+  "gasFactor": "1",
+  "port": "3000",
+  "network": "https://polygon-mumbai.infura.io/v3/737a357547e14224aa61a4b97d2754ef",
+  "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+  "beneficiary": "0x118b0f8c268b066300594E0dd0028a3717d7B9e9",
+  "minBalance": "1",
+  "mnemonic": "/app/workdir/mnemonic.txt",
+  "maxBundleGas": 5e6,
+  "minStake": "1" ,
+  "minUnstakeDelay": 0 ,
+  "autoBundleInterval": 3,
+  "autoBundleMempoolSize": 10
+}
+
